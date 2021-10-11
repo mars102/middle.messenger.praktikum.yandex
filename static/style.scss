@@ -19,6 +19,19 @@
 .text-title-page-eror{
     text-align: center;
 }
+
+.top-mar{
+    margin-top: 50px;
+}
+.upwidths{
+    min-width: 350px;
+}
+
+.color-label{
+   color: #898989;
+}
+
+
 .card{
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     transition: 0.3s;
@@ -37,16 +50,6 @@
     margin: 4px 2px;
     cursor: pointer;
     width: 100%;
-}
-.top-mar{
-    margin-top: 50px;
-}
-.upwidths{
-    min-width: 350px;
-}
-
-.color-label{
-   color: #898989;
 }
 
 
